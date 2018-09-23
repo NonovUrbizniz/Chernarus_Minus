@@ -1,0 +1,6 @@
+///'gui.pbo' from Mikero's dos tools, dll version 6.13///
+prefix=gui
+revision=68558
+Pbo Type is: Arma Unknown pbo typ (no config).
+Sha: 'C9ED510E458D616BBA7B74D362CADF368C9024C9'
+//////</HEADER>//////

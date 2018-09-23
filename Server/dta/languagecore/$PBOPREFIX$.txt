@@ -1,0 +1,6 @@
+///'languagecore.pbo' from Mikero's dos tools, dll version 6.13///
+prefix=languagecore
+revision=68558
+Pbo Type is: Arma Unknown pbo typ (no config).
+Sha: 'A0F0C61EFB30F7A7038F0CF7C52BDC1E5A6E570B'
+//////</HEADER>//////

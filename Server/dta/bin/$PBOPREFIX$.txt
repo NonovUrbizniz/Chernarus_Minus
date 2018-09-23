@@ -1,0 +1,7 @@
+///'bin.pbo' from Mikero's dos tools, dll version 6.13///
+product=dayz
+prefix=bin
+version=68606
+Pbo Type is: Arma Addon
+Sha: '41D089C2D4F3D1E42A7AB92DD22D5919AB52FDF3'
+//////</HEADER>//////
